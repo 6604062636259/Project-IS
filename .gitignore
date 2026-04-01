@@ -1,0 +1,29 @@
+# Virtual environments
+venv/
+venv_new/
+tf-env/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Node modules
+node_modules/
+package-lock.json
+
+# Streamlit config (if any)
+.streamlit/secrets.toml
+
+# IDEs
+.vscode/
+.idea/
+
+# Large files / Data (Optional, but included models/csv so app works without training)
+# *.csv
+# *.pkl
+# *.h5
+
+# OS specific
+.DS_Store
+Thumbs.db
