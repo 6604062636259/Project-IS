@@ -1,8 +1,8 @@
-streamlit==1.42.0
-pandas==2.2.3
-numpy==2.2.3
-scikit-learn==1.6.1
-joblib==1.4.2
-Pillow==11.1.0
-tensorflow==2.18.0
-opencv-python-headless==4.11.0.86
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+Pillow
+tensorflow-cpu
+opencv-python-headless
